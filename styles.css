@@ -1,14 +1,38 @@
+html {
+  width:1200px;
+
+
+}
+nav {
+margin-left: 30px;
+
+}
+header {
+margin-left: 30px;
+}
+
 section {
-  float: left;
-  
+  float:left;
+  margin-left: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 article {
- float: top;
- width: 990px;
+ float: left;
+ width: 450px;
+ height: 400px;
+ margin-bottom: 30px;
+ margin-right: 30px;
+ margin-left: 30px;
+ 
+
 }
 
 
 footer {
+  margin-top: 30px;
+  margin-left: 30px;
 
 }
