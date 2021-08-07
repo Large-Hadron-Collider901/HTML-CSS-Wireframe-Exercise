@@ -1,7 +1,13 @@
 html {
-  text-align: center;
+  
 }
 
+main {
+  text-align: center;
+}
+header {
+  text-align: center;
+}
 colgroup {
 display: inline-block;
 padding-left: 30px;
@@ -18,4 +24,44 @@ margin-left: 0px;
 
 }
 
+colgroup1
+{
+padding-top: 30px;
+padding-right: 30px;
+}
 
+colgroup2 {
+padding-right: 30px;
+
+}
+section {
+  padding-top: 30px;
+}
+
+
+logo {
+margin-left: 305px;
+padding-right: 30px;
+}
+
+item1 {
+padding-right: 50px;
+padding-bottom: 30px;
+
+}
+
+item2 {
+padding-right: 50px;
+
+}
+
+item3 {
+padding-right: 50px;
+
+}
+
+item4 {
+
+
+
+}
