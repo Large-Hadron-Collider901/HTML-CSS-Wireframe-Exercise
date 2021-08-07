@@ -1,6 +1,14 @@
-html {
-  
+
+nav {
+  margin-bottom: 30px;
+  margin-top: 0px;
+  background-color: #424141;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  text-decoration: none;
+  outline: none;
 }
+
 
 main {
   text-align: center;
@@ -16,12 +24,12 @@ white-space: 100px;
 
 }
 p {
-width: 480px;
+width: 420px;
 height: 400px;
 display: inline-block;
 padding: auto;
 margin-left: 0px;
-
+text-align: left;
 }
 
 colgroup1
@@ -36,8 +44,18 @@ padding-right: 30px;
 }
 section {
   padding-top: 30px;
-}
 
+}
+button {
+  background-color: black;
+  color: white;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  margin-right: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px
+}
 
 logo {
 margin-left: 305px;
@@ -45,23 +63,44 @@ padding-right: 30px;
 }
 
 item1 {
-padding-right: 50px;
-padding-bottom: 30px;
+padding-right: 70px;
+
 
 }
 
 item2 {
-padding-right: 50px;
+padding-right: 70px;
+
 
 }
 
 item3 {
-padding-right: 50px;
+padding-right: 70px;
 
 }
 
 item4 {
+margin-bottom: 30px;
+
+}
 
 
+footer {
+
+  height: 200px;
+  background-color:rgb(49, 49, 49);
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  transition: 350ms;
+}
+
+a:hover {
+background-color: blueviolet;
 
 }
